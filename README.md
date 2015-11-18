@@ -12,4 +12,6 @@ Erase item: Press "Edit", and click "X" to erase desired items.
 
 Save: the broswer will automatically save your items.
 
-Once you updated the list, the list will be automatically saved into your broswer localStorage. By default, the browser localStorage has already provided two reminder items on the browser. User can either edit the provided items by clicking on the item and directly edit the context or deleting item by clicking edit then click "X".
+Edit: simply tap on any items on your list and type your content
+
+By default, the browser localStorage has already provided two reminder items on the browser. 
