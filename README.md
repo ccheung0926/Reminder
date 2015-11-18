@@ -5,6 +5,7 @@ This apps built with vanilla JavaScript, CSS and HTML.
 
 
 Instruction:
+
 Add item: You can click "+" or simply press enter on the last item on the list.
 
 Erase item: Press "Edit", and click "X" to erase desired items.
