@@ -1,4 +1,4 @@
-REMINDER
+#REMINDER
 
 A mobile-based reminder application helping users to keep track of their important list of items. 
 This apps built with vanilla JavaScript, CSS and HTML.
